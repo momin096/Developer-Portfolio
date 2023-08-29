@@ -95,7 +95,6 @@ nav a {
 
 /* Main section styles  */
 
-
 /* About section styles */
 
 .about{
@@ -118,4 +117,32 @@ nav a {
     text-align: center;
     font-size: 18px;
     
+}
+
+
+/* About info  */
+
+.about-info{
+    text-align: center;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.info-title{
+    color: #757575;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 5px;
+}
+
+
+.info-description{
+    font-size: 20px;
+    color: #474747;
+    font-weight: 700;
+
 }
