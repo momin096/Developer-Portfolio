@@ -146,3 +146,36 @@ nav a {
     font-weight: 700;
 
 }
+
+
+/* What i do  */
+
+.what-i-do-container{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+#what-i-do-description{
+    padding: 30px 150px;
+
+}
+
+
+/* skill */
+
+.skills-container{
+    display: flex;
+    gap: 25px;
+}
+
+
+.skill{
+    box-shadow: 5px 5px 30px gray;
+    padding: 20px 30px;
+   
+}
+
+
+
+
+/* Resume section */
